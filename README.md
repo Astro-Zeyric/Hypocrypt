@@ -1,4 +1,4 @@
-# ![Hypocrypt Banner](https://i.ibb.co/XXXXXX/hypocrypt-banner.png)
+# ![Hypocrypt](https://i.ibb.co/XXXXXX/hypocrypt-banner.png)
 <!-- Replace the URL with the banner image you generate -->
 
 ![Number of GitHub contributors](https://img.shields.io/github/contributors/Astro-Zeyric/Hypocrypt)  
@@ -92,61 +92,3 @@ Even if it’s “useless,” contributions are welcome!
 ---
 
 :star: If you find Hypocrypt fun or useful, give it a star! Every star helps fuel more “useless-but-cool” experiments.
----
-
-## **Features**
-
-- **Custom Encoding**: Every letter, number, and symbol is uniquely encoded.
-- **Minimal Syntax**: Easy to learn and use, suitable for beginners and advanced developers alike.
-- **Applications**: Perfect for creating custom encodings, encryption schemes, and innovative software solutions.
-
----
-
-## **Getting Started**
-
-### Example: Hello World
-Here’s how "Hello World" is encoded in Hyposcript:
-
-**Input**: `Hello World`  
-**Encoded**: `-__-_ _-_ _--__- _--__- --_-____ _____ _--___ --_-____ -_---_ _--__- -_--__`
-
-### Punctuation Marks
-Here are some examples of how symbols are encoded:  
-- **!** → `--_--_`  
-- **@** → `--_-_---`  
-- **#** → `--__`  
-- **Space** → `_____`
-
----
-
-
-
-## **Roadmap**
-
-The roadmap for Hyposcript outlines the future goals and features for the language. Check out the current progress below:
-
-![Hyposcript Roadmap](https://drive.google.com/uc?id=10ynGF9Qok6Nxwu_RfLXhrGVKjgt-UjWa)
-
----
-
-
-## **Contribute**
-
-We welcome contributions from the community! Whether it's improving the documentation, adding new features, or optimizing the encoding scheme, your help is valuable.
-
-- **Fork and Star**: Star the repository to show your support!
-- **Report Bugs**: If you find any issues, please report them via GitHub.
-- **Suggest Features**: Share your ideas to improve Hyposcript.
-
----
-
-## **Footer**
-
-Explore more about Hyposcript and stay updated:
-
-- **GitHub Repository**: [Hypo Dev](https://github.com/HypoDev)  
-- **Email**: [dev.jarifxd@gmail.com](mailto:dev.jarifxd@gmail.com)  
-- **Twitter**: [@Hypo_Dev](https://twitter.com/Hypo_Dev)  
-- **License**: [MIT License](https://github.com/HypoDev/Hyposcript/blob/main/LICENSE)
-
-:star: If you find Hyposcript useful, please consider giving us a star on GitHub! Your support helps us improve and expand this project.
