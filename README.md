@@ -1,4 +1,4 @@
-# ![Hypocrypt](https://i.ibb.co/XXXXXX/hypocrypt-banner.png)
+# ![Hypocrypt](https://raw.githubusercontent.com/Astro-Zeyric/Hypocrypt/refs/heads/main/sources/hypocrypt.png)
 <!-- Replace the URL with the banner image you generate -->
 
 ![Number of GitHub contributors](https://img.shields.io/github/contributors/Astro-Zeyric/Hypocrypt)  
